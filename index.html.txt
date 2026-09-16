@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dave Needs a Living Kidney Donor | Yale Transplant Center</title>
+  <meta name="description" content="Dave from Derby is seeking a living kidney donor through Yale Transplant Center. Learn his story and how you can help.">
+  <style>
+    :root {
+      --primary: #0d6efd;
+      --primary-dark: #0a58ca;
+      --text: #212529;
+      --light-bg: #f8f9fa;
+      --accent: #198754;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text);
+      background: #fff;
+    }
+    .container { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+    header {
+      background: linear-gradient(135deg, #0d6efd, #0a58ca);
+      color: white;
+      padding: 3rem 0 2.5rem;
+      text-align: center;
+    }
+    header h1 { font-size: 2.2rem; margin-bottom: 0.5rem; font-weight: 700; }
+    header p { font-size: 1.2rem; opacity: 0.95; }
+    .badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.2);
+      padding: 0.35rem 1rem;
+      border-radius: 50px;
+      font-size: 0.9rem;
+      margin-top: 1rem;
+    }
+    section { padding: 2.5rem 0; }
+    h2 {
+      font-size: 1.6rem;
+      margin-bottom: 1.2rem;
+      color: var(--primary-dark);
+      border-bottom: 3px solid var(--primary);
+      padding-bottom: 0.4rem;
+      display: inline-block;
+    }
+    p { margin-bottom: 1rem; }
+    .story p { margin-bottom: 1.1rem; }
+    .highlight {
+      background: #e7f1ff;
+      border-left: 5px solid var(--primary);
+      padding: 1.2rem 1.4rem;
+      margin: 1.5rem 0;
+      border-radius: 0 8px 8px 0;
+    }
+    .cta-box {
+      background: var(--accent);
+      color: white;
+      padding: 2rem;
+      border-radius: 12px;
+      text-align: center;
+      margin: 2rem 0;
+    }
+    .cta-box h3 { font-size: 1.5rem; margin-bottom: 0.8rem; }
+    .cta-box a.phone {
+      display: inline-block;
+      background: white;
+      color: var(--accent);
+      font-size: 1.4rem;
+      font-weight: 700;
+      padding: 0.8rem 1.8rem;
+      border-radius: 8px;
+      text-decoration: none;
+      margin: 0.8rem 0;
+    }
+    .cta-box a.phone:hover { background: #f0f0f0; }
+    .facts { display: grid; gap: 1rem; }
+    .fact {
+      background: var(--light-bg);
+      padding: 1.1rem 1.3rem;
+      border-radius: 8px;
+    }
+    .fact strong { color: var(--primary-dark); }
+    ul { margin: 1rem 0 1rem 1.4rem; }
+    li { margin-bottom: 0.5rem; }
+    footer {
+      background: #212529;
+      color: #adb5bd;
+      padding: 2rem 0;
+      font-size: 0.9rem;
+      text-align: center;
+    }
+    footer a { color: #adb5bd; }
+    .disclaimer {
+      background: #fff3cd;
+      border: 1px solid #ffecb5;
+      color: #664d03;
+      padding: 1.2rem;
+      border-radius: 8px;
+      margin-top: 2rem;
+      font-size: 0.95rem;
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.7rem; }
+      .cta-box a.phone { font-size: 1.2rem; padding: 0.7rem 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>Dave Needs a Living Kidney Donor</h1>
+    <p>From Derby • Seeking a living donor through Yale Transplant Center</p>
+    <div class="badge">Approved to begin living donor search — September 2026</div>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="story">
+    <h2>Dave’s Story</h2>
+    <p>In September 2023, Dave suffered a life-threatening aortic aneurysm that cut off blood flow to his kidneys. He survived the emergency surgery, but the aneurysm returned larger than before.</p>
+    <p>On April 25, 2025, he underwent a second major open-heart surgery. The operation brought serious complications. He spent three and a half weeks in the hospital before finally being discharged on May 28.</p>
+    <p>A stent that had been placed was destroying his red blood cells (hemolysis). He was not strong enough for further reconstructive surgery. Throughout June he required blood transfusions nearly every Tuesday and Thursday just to stay stable.</p>
+    <p>In July the medical team developed a plan to address the stent and discovered multiple endoleaks. Over the following seven months Dave endured repeated procedures to seal those leaks — each one requiring at least three days in the ICU.</p>
+    <p>On June 3, 2026, after this long and difficult journey, Dave was finally declared healthy enough to be evaluated for a kidney transplant. Then in July he was diagnosed with congestive heart failure. After careful management with the heart-failure clinic, he received clearance this week to begin the search for a living kidney donor.</p>
+    <div class="highlight">
+      <strong>Today Dave is ready.</strong> He has fought through years of surgeries, complications, and setbacks. A living kidney donor would give him the chance at a healthier future.
+    </div>
+  </section>
+
+  <section>
+    <div class="cta-box">
+      <h3>Interested in learning more about becoming a living donor for Dave?</h3>
+      <p>Please contact the Center for Living Organ Donors at Yale Transplant Center directly.</p>
+      <a class="phone" href="tel:8669253897">866-925-3897</a>
+      <p style="margin-top: 1rem; font-size: 0.95rem;">All potential donors are evaluated by the medical team. Compatibility testing and the full process are handled by Yale.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Why a Living Donor Matters</h2>
+    <div class="facts">
+      <div class="fact">
+        <strong>Better outcomes</strong> — Living-donor kidneys typically last longer and begin working immediately compared with deceased-donor kidneys.
+      </div>
+      <div class="fact">
+        <strong>Shorter wait</strong> — Finding a living donor can mean receiving a transplant months or years sooner than waiting on the deceased-donor list.
+      </div>
+      <div class="fact">
+        <strong>You don’t have to be a perfect match</strong> — Paired exchange programs (including those used by Yale) allow incompatible donors to still help by swapping with other pairs.
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>What Happens Next if You’re Interested</h2>
+    <ul>
+      <li>Call the Yale Center for Living Organ Donors at <strong>866-925-3897</strong>.</li>
+      <li>The living-donor team will explain the evaluation process, answer your questions, and guide you through screening.</li>
+      <li>All medical decisions, testing, and coordination are handled by the transplant professionals — never by the patient or family.</li>
+    </ul>
+    <p>You can also learn more about living kidney donation from these trusted sources:</p>
+    <ul>
+      <li><a href="https://www.kidney.org/" target="_blank" rel="noopener">National Kidney Foundation</a></li>
+      <li><a href="https://www.findakidney.com/" target="_blank" rel="noopener">Find A Kidney / National Kidney Registry</a></li>
+      <li><a href="https://medicine.yale.edu/surgery/transplant/" target="_blank" rel="noopener">Yale Transplant Center</a></li>
+    </ul>
+  </section>
+
+  <div class="disclaimer">
+    <strong>Important disclaimer:</strong> This page is for awareness only. It is not a medical matching service. No medical advice is given here. All potential donors must go through formal evaluation by the Yale Transplant Center living-donor team. Decisions about donation are made solely by qualified medical professionals after thorough screening and informed consent.
+  </div>
+
+</main>
+
+<footer>
+  <div class="container">
+    <p>Created to support Dave’s search for a living kidney donor through Yale Transplant Center.</p>
+    <p style="margin-top: 0.6rem;">Potential donors: please call <a href="tel:8669253897">866-925-3897</a></p>
+  </div>
+</footer>
+
+</body>
+</html>
